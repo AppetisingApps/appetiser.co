@@ -15,6 +15,9 @@ module.exports = {
         serif: ['Coustard', ...defaultTheme.fontFamily.serif],
         sans: ['Inter var', ...defaultTheme.fontFamily.sans],
       },
+      colors: {
+        primary: '#f56565',
+      }
     },
   },
   variants: {
